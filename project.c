@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #include<stdlib.h>
 
 
@@ -83,6 +82,5 @@ int main()
     }
     printf("\n Average waiting time is %f sec.",avg);
     printf("\n avg turnaround time is %f sec ",avg1);
-    getch();
     return 0;
 }
